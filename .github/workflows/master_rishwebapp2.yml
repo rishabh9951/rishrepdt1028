@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'RishwebApp2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ACE9E58FF2F84ED38271817F98870C23 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B6AF6BCC10AA415D8C65699EB572C5EE }}
           package: .
